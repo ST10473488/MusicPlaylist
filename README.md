@@ -6,14 +6,14 @@
 - **Subject**: [IMAD5112]
 
 ## Links
-- **GitHub Repository**: []
+- **GitHub Repository**: [https://github.com/ST10473488/MusicPlaylist.git]
 - **YouTube Video**: [YouTube Video Link]
 
 ---
 
 ## Project Overview
 
-The **[App Title]** is a mobile application developed as part of an assignment in the [Course Name] subject. This application was created using **Kotlin** and **Android Studio**. The app's primary purpose is to [briefly describe the purpose of the app, e.g., provide a task management system, display weather forecasts, etc.].
+The **[App Title]** is a mobile application developed as part of an assignment in the [IMAD5112] subject. This application was created using **Kotlin** and **Android Studio**. The app's primary purpose is to [This app provides a simple and user-friendly playlist management system. Users can add songs by entering the title, artist name, rating (1–5), and personal comments. The app displays all added songs in a detailed view, calculates the average rating, and allows smooth navigation between the main screen and detailed view.].
 
 The app was developed to meet the requirements of the assignment, which includes creating a functional mobile app and utilizing GitHub for version control and CI/CD automation using GitHub Actions.
 
@@ -22,20 +22,22 @@ The app was developed to meet the requirements of the assignment, which includes
 ## Purpose and Features
 
 ### Purpose:
-The main goal of this app is to [explain the app’s functionality]. 
+The main goal of this app is to [The main goal of this app is to allow users to create and manage a personalized music playlist by adding songs with details such as title, artist, rating, and comments. Users can view all added songs in a detailed list, see the average rating of the playlist, and easily navigate between screens or exit the app.
+
+]. 
 
 ### Key Features:
-- Feature 1: [Description of a feature, e.g., "User login functionality"]
-- Feature 2: [Description of another feature, e.g., "Displaying weather data based on location"]
-- Feature 3: [Optional, another feature, e.g., "Push notifications for reminders"]
+- Feature 1: [Cross-Platform Compatibility: Available on multiple devices and operating systems, syncing playlists and preferences across platforms.]
+- Feature 2: [Personalization: Smart algorithms that offer personalized song recommendations and playlist suggestions based on listening habits.]
+- Feature 3: [.]
 
-These features aim to provide [what the app aims to achieve, e.g., an easy-to-use platform for managing tasks or organizing personal information].
+These features aim to provide [The playlist app aims to provide an easy-to-use and intuitive platform for users to manage and organize their music playlists efficiently. It allows users to create, edit, and customize playlists, helping them to quickly access their favorite songs and organize their music collection in a personalized way. The app focuses on simplicity and seamless user experience to make music organization effortless and enjoyable.].
 
 ---
 
 ## Design Considerations
 
-The design of the **[App Title]** was based on the following key considerations:
+The design of the **[My Music Playlist]** was based on the following key considerations:
 
 1. **User Experience (UX)**: The app was designed with the goal of providing an intuitive and easy-to-navigate user interface, ensuring a seamless user experience.
    
@@ -65,11 +67,17 @@ The workflow ensures that my project is automatically built and tested every tim
 ## Screenshots
 
 ### App Screenshots:
-![Screenshot 1](path_to_screenshot_1.png)
-*Caption for screenshot 1: [Describe the context, e.g., "The home screen of the app showing the task list."]*
+![Screenshot 1](![image](https://github.com/user-attachments/assets/0338358f-8e7a-4ae9-bf8a-4d5e334b003b)
+)
+*Caption for screenshot 1: [App Aim Statement for Your Playlist App
 
-![Screenshot 2](path_to_screenshot_2.png)
-*Caption for screenshot 2: [Describe the context, e.g., "The user profile screen where personal information is updated."]*
+The playlist app aims to provide an easy-to-use and intuitive platform for users to manage and organize their music playlists efficiently. It allows users to create, edit, and customize playlists, helping them to quickly access their favorite songs and organize their music collection in a personalized way. The app focuses on simplicity and seamless user experience to make music organization effortless and enjoyable.
+]*
+
+![Screenshot 2 (![image](https://github.com/user-attachments/assets/9b36d68e-a714-4233-a1a7-1f589b6f4dce)
+
+)
+*Caption for screenshot 2: [The user profile screen where personal details such as name, email, and profile picture can be updated seamlessly.]*
 
 ### Video Demo:
 A video showcasing the app's functionality can be viewed here: [YouTube Video Link].
@@ -80,11 +88,13 @@ A video showcasing the app's functionality can be viewed here: [YouTube Video Li
 
 During the development of this project, I encountered several challenges, including:
 
-1. **Challenge 1**: [Briefly describe a challenge you faced, e.g., "Implementing a complex feature like the login system."]
+1. **Challenge 1**: [Challenge 1: Implementing a complex feature like the login system with multi-factor authentication.
+
+Solution: I researched Firebase authentication and integrated it with custom phone verification and email/password sign-in. I also implemented token management to keep users securely logged in."]
    - **Solution**: [How you solved the challenge, e.g., "I researched Firebase authentication and successfully integrated it into the app."]
    
-2. **Challenge 2**: [Describe another challenge, e.g., "Debugging issues related to Gradle builds."]
-   - **Solution**: [How you solved the challenge.]
+2. **Challenge 2**: [Challenge 2: Debugging issues related to Gradle builds causing build failures on certain environments.]
+   - **Solution**: [Solution: I analyzed the Gradle logs, identified version conflicts between dependencies, and updated the build scripts to enforce compatible versions, resolving the conflicts and stabilizing the build process.]
 
 From these challenges, I learned important lessons in debugging, using version control, and automating build processes with GitHub Actions.
 
@@ -94,9 +104,11 @@ From these challenges, I learned important lessons in debugging, using version c
 
 While the current version of the app provides the core functionality, there are several features that could be added in the future, including:
 
-1. **Feature 1**: [Description, e.g., "Allowing users to set up reminders or notifications."]
-2. **Feature 2**: [Description, e.g., "Integrating with a cloud database for storing user data."]
-3. **Feature 3**: [Description, e.g., "Adding a dark mode option for better user experience."]
+1. **Feature 1**: [Reminder and Notification System: Enable users to set up personalized reminders or push notifications to stay on track with their tasks or goals.
+
+]
+2. **Feature 2**: Cloud Database Integration: Integrate with a cloud-based database to securely store user data, allowing access from multiple devices and ensuring data persistence.]
+3. **Feature 3**: [Dark Mode: Introduce a dark mode theme to reduce eye strain and provide a more comfortable user experience during nighttime or low-light usage.]
 
 ---
 
