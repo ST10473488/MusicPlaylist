@@ -13,7 +13,7 @@
 
 ## Project Overview
 
-The **[App Title]** is a mobile application developed as part of an assignment in the [IMAD5112] subject. This application was created using **Kotlin** and **Android Studio**. The app's primary purpose is to [This app provides a simple and user-friendly playlist management system. Users can add songs by entering the title, artist name, rating (1–5), and personal comments. The app displays all added songs in a detailed view, calculates the average rating, and allows smooth navigation between the main screen and detailed view.].
+The **[My a]** is a mobile application developed as part of an assignment in the [IMAD5112] subject. This application was created using **Kotlin** and **Android Studio**. The app's primary purpose is to [This app provides a simple and user-friendly playlist management system. Users can add songs by entering the title, artist name, rating (1–5), and personal comments. The app displays all added songs in a detailed view, calculates the average rating, and allows smooth navigation between the main screen and detailed view.].
 
 The app was developed to meet the requirements of the assignment, which includes creating a functional mobile app and utilizing GitHub for version control and CI/CD automation using GitHub Actions.
 
